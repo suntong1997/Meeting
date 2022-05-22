@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/drawable/chat_edit_bg.xml" value="0.181" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/drawable/guide_star_anim.xml" value="0.1075" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/drawable/login_btn_bg.xml" value="0.181" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_guide.xml" value="0.335" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_index.xml" value="0.15602836879432624" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_main.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/layout_pager_guide_1.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/layout_pager_guide_2.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/layout_pager_guide_3.xml" value="0.15602836879432624" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/framework/src/main/res/layout/activity_index.xml" value="0.2916666666666667" />
       </map>
     </option>
   </component>
