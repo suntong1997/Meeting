@@ -10,8 +10,8 @@ import android.os.Message;
 import android.text.TextUtils;
 
 import com.example.framework.Constants;
+import com.example.framework.manager.BmobManager;
 import com.example.framework.utils.SpUtils;
-import com.example.meeting.MainActivity;
 import com.example.meeting.R;
 
 public class IndexActivity extends AppCompatActivity {
@@ -48,7 +48,11 @@ public class IndexActivity extends AppCompatActivity {
         } else {
             String token = SpUtils.getInstance().getString(Constants.SP_TOKEN, "");
             if (TextUtils.isEmpty(token)) {
-                intent.setClass(this, LoginActivity.class);
+                if (BmobManager.getInstance().isLogin()) {
+                    intent.setClass(this, MainActivity.class);
+                } else {
+                    intent.setClass(this, LoginActivity.class);
+                }
             } else {
                 intent.setClass(this, MainActivity.class);
             }
@@ -56,5 +60,7 @@ public class IndexActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
+
+
 
 }

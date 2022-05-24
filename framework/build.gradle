@@ -10,7 +10,7 @@ android {
         targetSdk rootProject.ext.android['targetSdk']
 
         testInstrumentationRunner rootProject.ext.android['testInstrumentationRunner']
-        consumerProguardFiles  rootProject.ext.android['consumerProguardFiles']
+        consumerProguardFiles rootProject.ext.android['consumerProguardFiles']
     }
 
     buildTypes {

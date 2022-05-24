@@ -8,11 +8,16 @@
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/drawable/login_btn_bg.xml" value="0.181" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_guide.xml" value="0.335" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_index.xml" value="0.15602836879432624" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_login.xml" value="0.1118659420289855" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_main.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/activity_test.xml" value="0.15602836879432624" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/layout_pager_guide_1.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/layout_pager_guide_2.xml" value="0.2916666666666667" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/app/src/main/res/layout/layout_pager_guide_3.xml" value="0.15602836879432624" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/framework/src/main/res/drawable/shape_loding_bg.xml" value="0.1905" />
         <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/framework/src/main/res/layout/activity_index.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/framework/src/main/res/layout/dialog_loding.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/suntong/AndroidStudioProjects/Meeting/framework/src/main/res/xml/network_security_config.xml" value="0.1118659420289855" />
       </map>
     </option>
   </component>
