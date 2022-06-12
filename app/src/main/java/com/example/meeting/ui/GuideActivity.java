@@ -142,6 +142,7 @@ public class GuideActivity extends BaseUIActivity implements View.OnClickListene
                 break;
             case R.id.tv_guide_skip:
                 startActivity(new Intent(this, LoginActivity.class));
+                mGuideMusic.stopPlay();
                 finish();
                 break;
         }

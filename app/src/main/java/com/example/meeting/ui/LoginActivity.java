@@ -17,9 +17,9 @@ import com.example.framework.Constants;
 import com.example.framework.base.BaseUIActivity;
 import com.example.framework.bmob.IMUser;
 import com.example.framework.manager.BmobManager;
-import com.example.framework.manager.DialogManager;
 import com.example.framework.utils.SpUtils;
 import com.example.framework.view.LoadingView;
+import com.example.meeting.MainActivity;
 import com.example.meeting.R;
 
 import cn.bmob.v3.exception.BmobException;
